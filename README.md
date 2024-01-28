@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Shola Omofola!
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on [insert your primary technology or interest here]. 
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on LAMP Stack Applications. 
 
-🔭 Currently, I'm working on [mention a current project or focus].
+🔭 Currently, I'm working on several exciting projects..
 
 ## 🚀 Quick Links
 
@@ -11,18 +11,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 🛠️ Skills
 
-- Programming Languages: [List your programming languages]
-- Web Development: [List your web development skills]
-- Frameworks: [List your frameworks]
-- Database: [List your database skills]
+- Programming Languages: PHP
+- Web Development: CSS,Javascript,Bootstrap
+- Frameworks: Laravel,React
+- Database: MySQL, MongoDB
+- Server : Linux/Ubuntu/Apache/SSH
 - ...
 
 ## 🌱 Projects
 
 Here are some projects I'm proud of:
 
-1. [Project 1](https://github.com/somofola/project1) - Brief description.
-2. [Project 2](https://github.com/somofola/project2) - Brief description.
+1. [Doctorr](https://www.doctorr.tk/) - Telemedicine application.
+2. [Purple FoodBank](https://www.purplefb.tk/) - Ecommerce food sharing application..
 3. ...
 
 Feel free to explore my repositories for more!
