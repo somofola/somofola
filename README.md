@@ -24,7 +24,7 @@ Here are some projects I'm proud of:
 
 1. [Doctorr](https://www.doctorr.tk/) - Telemedicine application.
 2. [Purple FoodBank](https://www.purplefb.tk/) - Ecommerce food sharing application..
-3. ...
+
 
 Feel free to explore my repositories for more!
 
